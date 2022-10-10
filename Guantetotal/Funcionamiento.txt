@@ -1,0 +1,1 @@
+Es un guante que  al tocar un sensor que tiene en el dedo emite música.

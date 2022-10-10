@@ -1,0 +1,4 @@
+Juego marcia-juego (Proyecto final Seré Ingeniera 2020):
+Juego en el que le tienes que dar a las fotorresistencias cuando el led se activa.
+Se gana cuando se llega a 20 aciertos.
+Se pierde cuando se llega a 3 fallos.
