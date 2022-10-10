@@ -1,0 +1,9 @@
+La transición de colores con el led RGB se realiza de la siguiente manera:
+Comenzamos estableciendo a 255 una de las variables (en mi caso el rojo), y las demás en 0. Hacemos que el valor de una de las variables que estaban en 0 (el verde,por ejemplo) comience a aumentar de 10 en 10 hasta que tenga 255.
+Cuando ambas variables están a 255 hacemos que la primera variable(rojo) disminuya de 10 en 10 hasta que llegue a 0. 
+De nuevo, establecemos que la variable que no hemos utilizado (azul) aumente de 10 en 10 hasta que llegue a 255.
+Por ello, obligamos a que la variable verde disminuya de 10 en 10 hasta que llegue a 0.
+Después hacemos que la variable roja aumente de 10 en 10 hasta que llegue a 255, para después hacer disminuir la variable azul de 10 en 10 hasta que llegue a 5.
+¿por que a 5? porque si establezco el color (255,0,0), como el arduino vuelve a reproducir el código que hay dentro del void loop, el rojo estará por más tiempo que los demás colores.
+
+¡!Entre cada variación de color hay un delay (tiempo de espera) de 1000 ms, es decir, de 1 seg.
