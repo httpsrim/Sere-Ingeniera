@@ -1,3 +1,4 @@
 # Sere-Ingeniera
-Son los proyectos que he realizado en Seré Ingeniera en 2019,2020 y 2021.
-pag web Seré Ingeniera:https://sereingeniera.ugr.es
+Por un lado están los proyectos que realicé en 2019,2020 y 2021. 
+Por otro lado, los que estoy realizando como profesora del campus(2023).
+Página web Seré Ingeniera:https://sereingeniera.ugr.es
